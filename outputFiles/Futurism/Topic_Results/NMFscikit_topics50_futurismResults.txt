@@ -1,0 +1,56 @@
+NMF_scikit: {num_topics=50, init='nndsvda', alpha=0.0}
+
+Topics:
+prime amazon day deal good save echo big dog espresso
+musk twitter elon speech account company tesla tweet platform free
+musk spacex elon tesla starship ceo insider employee company woman
+station space iss nasa astronaut international crew russia russian cosmonaut
+climate change study human researcher scientist disease rogan sea city
+game play vr roblox console gamer genre player title good
+headphone ear noise earbud sound audio wireless pair music cancel
+tv inch k screen qle smart television refresh light rate
+tesla drive self car driver vehicle autopilot fsd beta driving
+ftx bankman fry sbf sam crypto exchange collapse ceo fund
+controller nintendo switch console xbox game gaming x play ole
+fusion energy reactor nuclear power livermore breakthrough experiment scientist claim
+nft ape bored sell blockchain nfts artist art opensea marketplace
+watch apple smartwatch garmin band gps mm fitness series wrist
+nasa launch rocket sls moon artemis mission agency lunar starship
+lemoine lamda ai sentient google sentience language claim engineer human
+metaverse meta facebook zuckerberg vr company virtual headset mark concert
+camera video shoot doorbell image autofocus sensor resolution good phone
+keyboard key mechanical razer ergonomic logitech wrist wireless huntsman switch
+printer d print printing filament vyper resin ink photo pla
+kid child parent selling binocular age young fun key gift
+crypto coinbase exchange wallet cryptocurrency investor security blockchain crash bitcoin
+tablet ipad pen screen drawing cintiq app fire pro display
+vpn server service netflix streaming vpns firestick expressvpn access nordvpn
+samsung galaxy phone s watch screen inch tab gb android
+laptop gb ram acer port chromebook graphic gaming processor usb
+solar panel generator delta power ecoflow sunpower battery max ef
+apple macbook airpod pro ipad m labor inch max generation
+drone fly axon taser board battery flight ethic minute control
+planet earth moon atmosphere jupiter orbit exoplanet star solar system
+cbd oil fat hemp gummie milligram flavor ingredient supplement cat
+ai dall image artist generate openai e neural network lensa
+universe signal dark scientist researcher paper alien matter theory galaxy
+nebulae star nebula object emission light ionize reflection mass planetary
+turntable speaker audio music album preamp sound record cartridge bulb
+selling key cook gift cooking point recipe food heat ingredient
+mattress memorial pit deal fire labor sale day bonfire weekend
+webb telescope nasa james image hubble space jwst galaxy astronomer
+gaming mouse pc pad headset desktop gamer rtx steelserie rgb
+mar sample nasa mars earth martian rover carbon rock insight
+vacuum robot dyson cleaner litter v clean cat floor sweep
+russia rogozin russian ukraine putin country ukrainian roscosmo invasion space
+report tiktok government msn company datum accord tell employee uber
+chair ergonomic desk material plastic recycle branch recyclable office sustainable
+detector metal battery radar monoxide inch treasure carbon gps device
+bitcoin mining crypto tulip taleb cryptocurrency groot miner el salvador
+satellite starlink spacex asteroid internet streak service phone launch orbit
+charge phone magsafe charger protector iphone device cable usb case
+bot chatbot health gut viome replika intelligence ai sarina chinese
+originally smart k discount tv series blender inch m uhd
+
+Overall Coherence Score: 0.7391398738996731  
+KLD Score: 295.86869070622924

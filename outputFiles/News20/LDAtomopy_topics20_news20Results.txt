@@ -1,0 +1,25 @@
+LDA_tomopy: {num_topics=20, max_iters=100}
+
+Topics:
+make point people question thing claim good give read true
+armenian people kill turkish war government attack israeli jewish village
+system computer program technology provide design project information develop user
+file image program version server graphic format color display software
+space launch mission satellite earth orbit planet year shuttle solar
+people make time good work thing talk question job problem
+fire child batf agent police tank compound report warrant start
+game team year play win player good season score hit
+church word man book sin love life faith child christian
+price sell good offer sale mail include buy interested book
+law government gun state crime weapon control criminal public firearm
+religion people belief man atheist human homosexual moral religious atheism
+mail post list send information address group message article email
+key chip encryption clipper phone bit system number security algorithm
+people time start back day happen year leave thing hear
+year drug patient number health study disease report rate medical
+line control test level include entry datum section number output
+car good bike buy power problem engine drive make ride
+drive card disk system scsi work driver monitor video hard
+window problem run work program application system set file screen
+
+Overall Coherence Score: 0.6543158313581868

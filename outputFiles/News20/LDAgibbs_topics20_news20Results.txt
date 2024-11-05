@@ -1,0 +1,25 @@
+LDA_gibbs: {num_topics=20, n_iter=1000}
+
+Topics:
+drive card disk system driver work problem scsi monitor hard
+man church word people love sin life christian make homosexual
+car price sell good buy sale offer pay make engine
+key chip encryption phone clipper government system bit public privacy
+space launch system earth mission orbit satellite year planet station
+book write read article copy issue text paper find author
+people thing time start happen make child day hear year
+make people work time talk year president question money give
+system software include support user version base server run computer
+armenian people war government turkish jewish israeli kill country attack
+back time leave turn line work start day door side
+post mail send list address information group email question message
+image file color bit format graphic datum program display version
+power problem thing good make work time wire ground high
+file window program run set font entry application problem line
+study year number patient drug report high research rate health
+game team year play win player good season score goal
+gun law state government crime weapon people police firearm control
+people make point thing argument question claim exist evidence reason
+problem point time find case give theory form source part
+
+Overall Coherence Score: 0.614925230832194

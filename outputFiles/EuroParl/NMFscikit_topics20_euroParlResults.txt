@@ -1,0 +1,25 @@
+NMF_scikit: {num_topics=20, init='nndsvdar'}
+
+Topics:
+commissione bilancio iniziativa proposta nome parere controllo dare agricoltura riguardo
+presidente signore commissario signora carica en parlare dibattito discussione fr
+europeo unione cittadino adesione integrazione istituzione democratico livello costituzione necessità
+economico sociale politico crisi finanziario livello necessario sistema regione sviluppo
+diritto umano fondamentale rispetto democrazia materia libertà rispettare violazione donna
+onorevole collega desiderare relatore ringraziare deputato nome innanzi signora esprimere
+parlamento europeo ruolo deputato posizione adottare esprimere svolgere risoluzione voto
+politica comune agricolo estero regionale bisogno riforma comunitario sicurezza pesca
+volere ciò sottolineare possibile ricordare presente chiedere azione commissario aula
+relazione votare linea aspetto presentare tema discussione ringraziare svoltare eccellente
+membro euro adottare direttiva fornire sapere chiedere fiscale singolo sistema
+proposta regolamento articolo venire paragrafo risoluzione direttiva senso ricevere presentare
+questione trattare sollevare discutere affrontare occasione riguardare risolvere trattato presidenza
+europa cittadino sicurezza bisogno confronto motivo centrale popolo creare occidentale
+accordo cooperazione negoziato concludere raggiungere ciò materia partenariato internazionale ue
+problema mercato interno affrontare risolvere impresa comune concorrenza situazione grave
+punto importante vista ritenere passo attenzione soprattutto valutazione rispettare rappresentare
+emendamento presentare chiedere votare approvare numero maggioranza nn posizione motivo
+programma settore sviluppo ricerca quadro fondo pubblico progetto aiuto investimento
+obiettivo raggiungere direttiva garantire ciò misura strategia necessario piano controllo
+
+Overall Coherence Score: 0.45129346638045115

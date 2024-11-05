@@ -1,0 +1,76 @@
+LDA_tomopy: {num_topics=70, max_iters=100, alpha=0.1, eta=0.05}
+
+Topics:
+green grandpad case attorney cluster court star contact claim audible
+selling key point gift good hair kit include love great
+snow b ufos osiris hot star mcafee nebula cygni bellerophon
+doorbell smart video hp home ring security eufy blink storage
+oven cook cooking food kitchen heat grill temperature breville recipe
+aid hearing hear ear model warranty battery fit bluetooth sound
+printer d print printing piece panel resin anycubic screen fitness
+kid tablet child age app screen young parent old senior
+controller switch xbox game nintendo button play wireless gaming bluetooth
+vyper bubble airtag skin sunscreen spray reznor sun plate water
+good feature pro use price high include cut model spec
+meta metaverse facebook zuckerberg virtual vr tiktok mark reality datum
+space russia station russian iss ukraine rogozin international nasa astronaut
+bot chatbot ai user facial post search photo chinese recognition
+light energy fusion lead strip power ray nuclear lighting sonos
+hdmi modulator splitter output input cable signal device rf home
+nft ape project crypto sell tool software production digital blockchain
+monitor arm display desk vk screen pen scale mount stand
+use time app allow work set like new support find
+mouse pad gaming cool surface microphone laptop fan inch desk
+binocular wrist x rest material memory foam gel inch plastic
+robot litter cat box machine clone shark walk robotic whisker
+wallet card rfid color material block slim credit black carbon
+d software modeling tool free max ds game character type
+lego star war set jetpack mayman fett boba piece fan
+tv inch screen samsung k smart television lead refresh rate
+mattress black friday deal sale sleep memorial green discount holiday
+phone printer case photo print ink waterproof mp screen airprint
+evolution science eye animal experiment brain neuralink monkey theory crop
+turntable album record preamp usb manual audio needle build cartridge
+like come look post time use light good little day
+report country government accord china use read risk new department
+grow plant recycle solar plastic material indoor garden product sustainable
+speaker music sound audio stereo song zeppelin stream n lg
+game vr play headset nintendo console experience switch title like
+ai image artist language generate algorithm network write model lensa
+watch apple galaxy garmin s smartwatch gps battery screen feature
+tesla vehicle car drive self driver software autopilot musk beta
+musk twitter elon tesla spacex ceo tweet speech employee account
+tracker gps battery talkie walkie dog flashlight range location life
+battery speed bike ebike scooter hoverboard mile ride m range
+video editing premiere adobe mac software pro edit imovie final
+human researcher scientist tell study research find university technology ai
+company tell year like people time know new world come
+planet star earth scientist universe life team signal theory new
+ice cream scoop smart machine msn youtube story churn bowl
+bush boo george neo chappelle bst kitty w hawk dril
+vpn service server speed streaming firestick gaming internet country location
+telescope nasa webb space image james heat science jupiter shatner
+nasa space launch mission rocket spacex moon mar agency year
+keyboard chair key ergonomic mechanical wireless logitech inch office switch
+device inch x good android pro spec weight run play
+climate park city change tree water sea national drought river
+sleep cricut heat dna legging tentree easypress mom project press
+fire subwoofer pit power labor inch bass car sound watt
+laptop gaming gb graphic ram processor card screen port game
+battery satellite phone smart garage door v opener lithium hour
+day prime deal amazon good save big echo great smart
+vacuum robot property roofstock clean dyson sell floor cleaner rental
+drone fly battery control minute flight helicopter camera time inch
+crypto wallet bitcoin mining cryptocurrency security software interface exchange hardware
+porn epstein adult onlyfan gate fedex snow winter performer permission
+detector metal radar carbon detect monoxide inch battery treasure device
+headphone sound ear audio noise wireless airpod earbud pro studio
+pet camera cat dog treat subscription toy petcube home way
+ftx crypto bankman fry exchange investor fund ceo sam billion
+cbd oil fat health gummie hemp milligram ingredient supplement gut
+liteboxer workout ticketmaster ticket punch concert song fan strength swift
+charge cable protector device power case phone station usb surge
+camera video resolution image webcam sensor shoot k megapixel body
+
+Overall Coherence Score: 0.5827027736830857  
+KLD Score: 3.1519999265044807

@@ -1,0 +1,25 @@
+NMF_scikit: {num_topics=20, init='nndsvdar'}
+
+Topics:
+make thing people point question word religion life man claim
+window run application manager font server driver screen version display
+game play score baseball night goal playoff show watch fan
+price offer sell sale good buy condition include shipping interested
+mail list address send information reply advance info email interested
+card driver video bus slot mode port graphic support fast
+drive disk scsi hard ide controller floppy format boot tape
+key chip clipper encryption phone escrow algorithm government number bit
+file format directory convert find site win download disk utility
+car engine mile buy oil speed dealer owner power tire
+people gun government law kill state armenian child fire country
+post read group article newsgroup email net news time response
+team year player win play good season hit fan lose
+image color bit display graphic format screen line support server
+system space software computer design orbit launch cost base user
+monitor vga apple power computer video color screen cable resolution
+problem work run time fine fix machine port modem error
+program call run version disk write copy software code graphic
+bike ride motorcycle back turn road mile front time dog
+book find read write source information reference page copy code
+
+Overall Coherence Score: 0.6325507578785308

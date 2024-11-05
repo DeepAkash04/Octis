@@ -1,0 +1,26 @@
+LDA_tomopy: {num_topics=20, max_iters=100}
+
+Topics:
+cooperazione accordo riguardare norma organizzazione domanda pensare possibile sistema dialogo
+membro rispettare accordo continuare negoziato ambito possibile trattato intervento autorità
+trasporto pertanto energia impresa ridurre regionale proporre particolare affrontare nucleare
+volere membro sapere compiere interno sistema entro chiedere questione disporre
+necessario bilancio finanziario settore termine ue prossimo attività politico specifico
+presidente signore onorevole collega volere commissario relazione signora desiderare dibattito
+europa situazione donna relazione ciò costituire parola affermare senso altresì
+pubblico mercato sicurezza questione servizio trattare tema né attenzione accesso
+tenere esistere conto possibilità riuscire ricordare paragrafo strategia sostegno lisbona
+dare venire controllo fornire mercato ciò consentire informazione valore interesse
+politica sociale comune sviluppo economico settore pesca riforma regione rendere
+commissione presentare emendamento parlamento proposta posizione chiedere merito relazione parere
+commissione proposta direttiva regolamento relazione discussione procedura riguardare articolo numero
+parlamento internazionale decisione processo presidenza ruolo giuridico esprimere trattare decidere
+venire rappresentare sostenere prodotto effetto libertà mettere conseguenza garantire aumento
+importante livello protezione ambiente dato base tutela condizione comunitario cambiamento
+diritto parlamento europeo punto umano politico fondamentale deputato vista chiaro
+europeo unione cittadino membro positivo dimostrare sforzo terzo settimana adesione
+programma quadro problema progetto democratico affrontare ricerca particolare ritenere maniera
+obiettivo misura fondo adottare azione garantire europa problema economia membro
+
+Overall Coherence Score: 0.3637124875812266
+

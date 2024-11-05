@@ -1,0 +1,85 @@
+Domain: sci.space
+
+NMF_scikit: {num_topics=5, init='nndsvdar'}
+
+Topics:
+space moon nasa edu sky think launch cost people year
+hst mission boost shuttle servicing array pat thruster mass digex
+henry toronto zoo svr spencer edu zoology utzoo temperature u
+gamma ray detector burst oort burster cloud distribution palmer edu
+command element baalke spacecraft timer jpl loss datum kelvin nasa
+
+Overall Coherence Score: 0.6566801803613774
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+LDA_gibbs: {num_topics=5, n_iter=1000}
+
+Topics:
+edu write subject henry toronto like think thing know zoo
+earth planet orbit moon probe solar sky venus surface star
+launch space satellite mission system datum nasa rocket dc use
+space nasa cost edu subject year moon program gov work
+write shuttle edu subject com use mission hst pat think
+
+Overall Coherence Score: 0.5268433491226995
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Domain: rec.sport.baseball
+
+NMF_scikit: {num_topics=5, init='nndsvdar'}
+
+Topics:
+morris team win run year cs good jay player jack
+lose win idle york new san sox chicago red cub
+game gant hirschbeck umpire pitch brave watch edu duke time
+jewish lafayette lafibm vb come edu koufax lowenstein player baseball
+hit year clutch bond hitter good player williams edu bat
+
+Overall Coherence Score: 0.5840837628756537
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+LDA_gibbs: {num_topics=5, n_iter=1000}
+
+Topics:
+year player good think hit know write clutch edu com
+edu write subject baseball fan day think apr like game
+run year hit good edu player play pitcher time average
+game edu pitch write com pitcher subject ball run gant
+win team game lose morris cub red score sox edu
+
+Overall Coherence Score: 0.5036829700201336
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+Domain: talk.religion.misc
+
+NMF_scikit: {num_topics=5, init='nndsvdar'}
+
+Topics:
+god jesus law love christ create ra sin people royalroads
+objective morality value frank moral science o subjective dwyer uucp
+sandvik apple kent newton com alink ksand private activity net
+koresh edu write think evidence com know people like fire
+brian je life kendig aucun ceux fait ne suis comme
+
+Overall Coherence Score: 0.7760311432148601
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+LDA_gibbs: {num_topics=5, n_iter=1000}
+
+Topics:
+write edu subject think order read church true context quote
+edu write com know subject people think sandvik koresh kent
+objective write morality moral life com thing brian value theory
+god jesus bible christ people lord law jehovah come love
+christian use text greek new word mean find religion mr
+
+Overall Coherence Score: 0.4741975880294353

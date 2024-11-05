@@ -1,0 +1,25 @@
+LDA_gibbs: {num_topics=20, n_iter=1000}
+
+Topics:
+programma ricerca sviluppo relazione economico fondo stabilire campo politica quadro
+volere problema cambiamento sottolineare numero ciò regione causa massimo popolazione
+diritto punto rispettare politico donna rispetto materia considerare criterio ambito
+venire grado riconoscere necessario ue motivo usare vedere turchia soluzione
+politica importante sicurezza passo rappresentare comune pertanto interno trattare europa
+problema questione politico volere organizzazione trattare affrontare importanza occasione datare
+europeo obiettivo controllo garantire comunitario livello unione misura membro piano
+settore servizio trasporto energia pubblico mercato impresa sicurezza piccolo investimento
+europeo diritto ruolo lotta internazionale europa donna democratico parlamento importante
+politica prodotto bilancio finanziario comune obiettivo aiuto produzione agricolo aumento
+presidente signore onorevole collega commissario relazione volere signora desiderare ringraziare
+direttiva regolamento membro proposta tenere trattato articolo base procedura conto
+sociale economico sviluppo politica mercato economia occupazione europa pubblico garantire
+commissione punto volere chiedere attenzione particolare questione onorevole rispondere emendamento
+europeo unione diritto accordo cooperazione umano questione democrazia materia attualmente
+commissione parlamento proposta europeo onorevole questione votare membro poiché sapere
+commissione relazione parlamento membro parere accordo né lavorare pensare prossimo
+europeo unione europa politico finanziario cittadino rendere azione sostegno economico
+europeo unione cittadino processo possibile dimostrare risultato continuare ritenere sentire
+commissione presentare relazione parlamento emendamento adottare decisione approvare programma progetto
+
+Overall Coherence Score: 0.43154525140191097

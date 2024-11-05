@@ -1,0 +1,35 @@
+NMF: {num_topics=30, init='nndsvdar', alpha=0.08}
+
+Topics:
+prime amazon day deal good save echo big espresso dog
+musk twitter elon speech account company tesla tweet platform free
+musk spacex elon tesla starship ceo insider employee woman company
+russia space station russian iss rogozin nasa international ukraine astronaut
+universe signal scientist researcher study star dark paper theory alien
+game console gaming controller play nintendo xbox switch title gamer
+headphone ear noise earbud sound audio wireless pair music cancel
+tv inch k smart screen qle television refresh samsung light
+tesla drive self car driver vehicle autopilot fsd beta driving
+ftx bankman fry sbf sam crypto exchange collapse ceo fund
+turntable speaker audio music album sound preamp bulb record cartridge
+fusion energy reactor nuclear power livermore breakthrough experiment scientist claim
+nft ape sell bored blockchain artist nfts art opensea steal
+galaxy samsung watch smartwatch garmin gps s feature fitness tracker
+nasa launch rocket sls moon mission artemis astronaut agency space
+ai lemoine lamda sentient chatbot google human language claim sentience
+metaverse meta facebook zuckerberg vr company virtual headset mark world
+camera video drone shoot kid doorbell image good sensor feature
+keyboard gaming mouse mechanical key razer ergonomic wireless wrist logitech
+printer d print printing filament vyper resin photo ink pla
+crypto bitcoin coinbase cryptocurrency wallet exchange mining investor crash blockchain
+webb telescope nasa james image star hubble space galaxy nebula
+tablet kid ipad screen pen pro app fire drawing hd
+vpn server service netflix streaming vpns firestick access expressvpn nordvpn
+apple watch protector iphone magsafe charger airpod charge pro macbook
+laptop gb gaming ram macbook inch port graphic processor acer
+battery charge device solar power detector phone inch use v
+satellite starlink spacex asteroid internet service streak phone launch debris
+selling cbd key gift mattress oil ingredient good point flavor
+planet earth solar atmosphere mar moon jupiter life surface orbit
+
+Overall Coherence Score: 0.7694932277824499
